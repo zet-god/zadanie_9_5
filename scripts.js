@@ -1,10 +1,10 @@
 //alert('hello');
 
-// var buttons = document.getElementsByClassName('button');
-// console.log(buttons);
+var buttons = document.getElementsByClassName('button');
+console.log(buttons);
 
-// var buttonsContent = buttons.innerHTML;
-// console.log(buttonsContent);
+var buttonsContent = buttons.innerHTML;
+console.log(buttonsContent);
 
 // console.log(document.getElementsByClassName('button').textContent);
 
